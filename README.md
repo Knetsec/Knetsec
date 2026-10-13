@@ -15,7 +15,7 @@
 
 ### Languages
 - ☕ Java
-- 🐍 Python *(Learning)*
+- C# *(Learning)*
 
 ### Tools
 - Git & GitHub
