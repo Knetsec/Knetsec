@@ -24,7 +24,7 @@
 
 ## 🎯 Current Goals
 
-- Build more Java and Python projects.
+- Build more Java and C# projects.
 - Improve my understanding of data structures and algorithms.
 - Become more confident using Linux.
 - Contribute to open-source projects.
