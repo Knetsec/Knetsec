@@ -7,7 +7,7 @@
 
 - 💻 I enjoy solving problems and building applications.
 - ☕ Comfortable with Java and object-oriented programming.
-- 🐍 Currently learning Python.
+-  Currently learning C#.
 - 🐧 Exploring Linux and becoming more comfortable with the command line.
 - 🌱 I believe in learning by building and improving one project at a time.
 
