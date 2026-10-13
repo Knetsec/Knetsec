@@ -18,7 +18,7 @@
 - C# *(Learning)*
 
 ### Tools
-- Git & GitHub
+- GitHub & GitHub desktop
 - Visual Studio Code
 - Linux *(Learning)*
 
